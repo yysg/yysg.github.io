@@ -10,7 +10,7 @@ author: "yang18"
 
 ### SonarCube 使用指南
 
-![sonar_overview](/Users/yangjun/develop/dral/devops/img/sonar_overview.png)
+![sonar_overview](https://cdn.jsdelivr.net/gh/yysg/blog-img/root/sonar_overview.png)
 
 1. 安装 docker 版本的 SonarCube。创建`docker-compose.yml` 文件
 
@@ -89,15 +89,15 @@ author: "yang18"
 
 2. manage jenkins -> config system -> SonarQube servers
 
-   <img src="/Users/yangjun/develop/dral/devops/img/sonar_jenkins_sonar_server.png" alt="sonar_jenkins_sonar_server" style="zoom:50%;" />
+   <img src="https://cdn.jsdelivr.net/gh/yysg/blog-img/root/sonar_jenkins_sonar_server.png" alt="sonar_jenkins_sonar_server" style="zoom:50%;" />
 
 3. 新建项目
 
-   ![sonar_jenkind_env_build](/Users/yangjun/develop/dral/devops/img/sonar_jenkind_env_build.png)
+   ![sonar_jenkind_env_build](https://cdn.jsdelivr.net/gh/yysg/blog-img/root/sonar_jenkind_env_build.png)
 
-   ![sonar_jenkins_build_option](/Users/yangjun/develop/dral/devops/img/sonar_jenkins_build_option.png)
+   ![sonar_jenkins_build_option](https://cdn.jsdelivr.net/gh/yysg/blog-img/root/sonar_jenkins_build_option.png)
 
-   ![sonar_jebkins_build](/Users/yangjun/develop/dral/devops/img/sonar_jebkins_build.png)
+   ![sonar_jebkins_build](https://cdn.jsdelivr.net/gh/yysg/blog-img/root/sonar_jebkins_build.png)
 
 ⚠️ Execute SonarQube Scanner 构建时 Analysis properties 是主要内容
 
